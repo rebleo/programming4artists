@@ -1,7 +1,7 @@
 ## MEDIUM: Programming 4 Artists, Spring 2018
 ### Spring 2018 | January 31 - May 23 | City College DIAP
 
-This class is an introduction to the fundamentals of computer programming using web-based interactive tools. Students will learn the basics of JavaScript and HTML through the P5.js framework. Students will be asked to consider how computation relates to the history of the (recorded) arts and how to augment or contextualize their own creative practice in relation to emerging media(s).  
+This class is an introduction to the fundamentals of computer programming using web-based interactive tools. Students will learn the basics of JavaScript and HTML through the P5.js framework.  
 
 ##### About
 * B2050-2080 || Wednesdays 2:00 pm - 4:50pm || Room XX
@@ -79,4 +79,4 @@ Weekly readings + tutorials linked from syllabus
 
 
 #### P5 Book
-*[Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
+* [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
