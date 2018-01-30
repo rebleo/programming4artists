@@ -84,8 +84,11 @@ Assignments must be completed and posted to the [class wiki](https://github.com/
 
 ``
 Participation + effort during weekly discussions 20%
+
 Regular Assignments																 30%
+
 Midterm Critique																	 20%
+
 Final Critique																		 20%
 ``
 ##### Reading:
