@@ -82,11 +82,10 @@ Students are expected to participate in class: contributing positively to discus
 ##### Assessment + Grading:
 Assignments must be completed and posted to the [class wiki](https://github.com/rebleo/programming4artists/wiki) by 12pm the day of class. Late work loses a letter grade and will not be accepted more than two weeks past the due date. Attendance at each class meeting is mandatory. Arriving more than 15 minutes late will be considered an absence. Three absences will lower your grade by one letter. Four absences will result in failure.
 
-| -------------------------------------------------:| ---:|
-| Participation + effort during weekly discussions	| 20% |
-| Regular Assignments																| 30% |
-| Midterm Critique																	| 20% |
-| Final Critique																		| 20% |
+Participation + effort during weekly discussions	20%
+Regular Assignments																30%
+Midterm Critique																	20%
+Final Critique																		20% 
 
 ##### Reading:
 There will be a reading every week. Readings will be linked from the syllabus.
