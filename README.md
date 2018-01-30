@@ -1,12 +1,12 @@
 ## MEDIUM: Programming 4 Artists, Spring 2018
 #### January 31 - May 23, 2018 | City College, DIAP
 
-This course is an introduction to the fundamentals of computer programming through the lens of visual culture and networked media. Through in class demonstrations, exercises and project assignments, class participants will learn the basics of JavaScript and HTML through the [p5.js] (https://p5js.org/ ) framework. Weekly readings, in class slide decks and discussions will consider a myriad of artistic disciplines in relationship to emerging interactive media.
+This course is an introduction to the fundamentals of computer programming through the lens of visual culture and networked media. Through in class demonstrations, exercises and assignments, class participants will learn the basics of JavaScript and HTML through the [p5.js](https://p5js.org/ ) framework. Weekly readings, in class slide decks and discussions will consider a myriad of artistic disciplines in relationship to emerging interactive media.
 
 ##### About
 * The City College of New York, MFA in Digital & Interdisciplinary Art Practice
 * B2050-2080 || Wednesdays 2:00 pm - 4:50pm || Shepard Hall, 408
-* rebecca (marks) leopold, email: rebeccaleopold@gmail.com - Office hours after class or by appointment.
+* rebecca (marks) leopold, email: Rebecca.Leopold@qc.cuny.edu - Office hours after class or by appointment.
 * [Course Website](http://github.com/rebleo/programming4artists)
 * [Course Wiki](https://github.com/rebleo/programming4artists/wiki)
 ___
@@ -17,7 +17,6 @@ ___
 * What is code?
 * Setup [GitHub](http://www.github.com), Blog + [p5.js Web Editor](https://alpha.editor.p5js.org/) Accounts
 * GitHub, Markdown + the Class Wiki
-aldsfjad;lfhjsd;
 * Intro to [p5.js](http://www.p5js.org) and Pixel Coordinate Systems, Stroke, Fill + Geometric Primitives
 
 ###### Assignment:
@@ -35,9 +34,9 @@ aldsfjad;lfhjsd;
 
 #### Assignment:
 * Read Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-* Read Tim Berners-Lee - [Long Live the] Web(http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
-* Read Hito Steyerl - [In Defense of the Poor] Image(http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
-	* Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
+* Read Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
+* Read Hito Steyerl - [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
+* Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
 
 ##### Week 3 -- February 14
 
