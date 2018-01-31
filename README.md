@@ -18,13 +18,11 @@ ___
 * Setup [GitHub](http://www.github.com), Blog + [p5.js Web Editor](https://alpha.editor.p5js.org/) Accounts
 * GitHub, Markdown + the Class Wiki
 * Intro to [p5.js](http://www.p5js.org) and Pixel Coordinate Systems, Stroke, Fill + Geometric Primitives
- * [ellipse()](https://p5js.org/reference/#/p5/ellipse), [rect()](https://p5js.org/reference/#/p5/rect), [triangle()](https://p5js.org/reference/#/p5/triangle)
-  * [fill()](https://p5js.org/reference/#/p5/fill), [stroke()](https://p5js.org/reference/#/p5/stroke)
 
 ###### Assignment:
 * Watch John Berger - [Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 * Read John Berger - [Understanding a Photograph](http://oldobjectsnewideas.com/_bergerUnderstandingPhotograph.pdf)
-* Find a geometric work from an artist you admire. Recreate the image using the p5.js web editor. Post a link to the class [wiki](https://github.com/rebleo/programming4artists/wiki).
+* Find a geometric work from an artist you admire. Recreate the image using the p5.js web editor. Post a link to the class [wiki](https://github.com/rebleo/programming4artists/wiki/Week-1).
 
 ##### Week 2 -- February 7
 ###### Making (the) Visible: Photography to the Web
