@@ -18,6 +18,8 @@ ___
 * Setup [GitHub](http://www.github.com), Blog + [p5.js Web Editor](https://alpha.editor.p5js.org/) Accounts
 * GitHub, Markdown + the Class Wiki
 * Intro to [p5.js](http://www.p5js.org) and Pixel Coordinate Systems, Stroke, Fill + Geometric Primitives
+ * [ellipse()](https://p5js.org/reference/#/p5/ellipse), [rect()](https://p5js.org/reference/#/p5/rect), [triangle()](https://p5js.org/reference/#/p5/triangle)
+  * [fill()](https://p5js.org/reference/#/p5/fill), [stroke()](https://p5js.org/reference/#/p5/stroke)
 
 ###### Assignment:
 * Watch John Berger - [Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
@@ -31,6 +33,7 @@ ___
 * setup(), draw() and the Animation Loop
 * p5.js Structure + Environment Functions
 * Local + Global Variables: Numbers + Strings
+
 
 #### Assignment:
 * Read Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
@@ -87,9 +90,6 @@ Assignments must be completed and posted to the [class wiki](https://github.com/
  * Midterm Critique																	 20%
  * Final Critique																		 20%
 
-##### Reading:
-There will be a reading every week. Readings will be linked from the syllabus.
-
 ##### Blogs:
 You are required to maintain a blog for this class where you will post your homework to link to from the class wiki. Often times when making work with code, something might not be working the day of class. It is important to constantly document your process. If a sketch is not working during critique, the blog post is essential for us to see and comment on your process. There are many free options that will offer you enough storage space for the semester. I suggest [Wordpress](https://wordpress.com/) or [Medium](http://www.medium.com) but choose whatever platform you prefer.
 
@@ -100,7 +100,7 @@ Your device is required for the course. Make it an instrument for you to use cre
 All students are responsible for understanding and complying with the CCNY policy on academic integrity. The document can be found through the CCNY website by clicking on “Current Students” then “Academic Services” then “Policy on Academic Integrity.” All students must read the details regarding plagiarism and cheating in order to be familiar with the rules of the college. Cases where academic integrity is compromised will be prosecuted according to these rules. In addition, the Policy of Academic Integrity can be found in the Graduate Bulletin.
 
 ##### Special Accommodations:
-Students who require special accommodations for disabilities must register with the AccessAbility Center/Student Disability Services and present a letter from the Center to the instructor at the start of the semester. [More information is available here] (https://www.ccny.cuny.edu/accessability/register)
+Students who require special accommodations for disabilities must register with the AccessAbility Center/Student Disability Services and present a letter from the Center to the instructor at the start of the semester. [More information is available here](https://www.ccny.cuny.edu/accessability/register)
 
 ##### Email and Social Media Protocol:
 Although email is a useful tool for quick communication, it is not a substitute for conversation. Issues concerning instructor evaluation, student approach to course assignments, unexpected challenges, meeting deadlines, etc. must be conducted in person, either before or after class, or at a mutually agreed upon time. Lengthy emails will be answered with a request for in-person consultation.
