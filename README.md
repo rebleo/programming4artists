@@ -18,6 +18,7 @@ ___
 * Setup [GitHub](http://www.github.com), Blog + [p5.js Web Editor](https://alpha.editor.p5js.org/) Accounts
 * GitHub, Markdown + the Class Wiki
 * Intro to [p5.js](http://www.p5js.org) and Pixel Coordinate Systems, Stroke, Fill + Geometric Primitives
+* [Week 1 Class Notes](http://oldobjectsnewideas.com/p4a/week1.pdf)
 
 ###### Assignment:
 * Watch John Berger - [Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
