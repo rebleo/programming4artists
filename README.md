@@ -31,6 +31,7 @@ ___
 * Intro to Unix, Running a Local Python Server, Text Editors (Atom, Sublime or Brackets?) + JavaScript Workflow
 * setup(), draw() and the Animation Loop
 * p5.js Structure + Environment Functions
+* [mouseX](https://p5js.org/reference/#/p5/mouseX)+ [mouseY](https://p5js.org/reference/#/p5/mouseY)
 * Local + Global Variables: Numbers + Strings
 
 ###### Assignment:
