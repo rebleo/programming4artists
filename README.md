@@ -40,9 +40,6 @@ ___
 * Read Hito Steyerl - [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
 * Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
 
-#### Resources:
-* * Coding Rainbow Video Tutorials
-** [p5.js Manager, Text Editor Workflow, Unix (MacOS Command Line) Basics + JavaScript Console](https://www.youtube.com/watch?v=HZ4D3wDRaec&index=2&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ##### Week 3 -- February 14
 ###### Looking @ Landscape: Random == Nature
