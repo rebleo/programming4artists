@@ -28,19 +28,30 @@ ___
 ##### Week 2 -- February 7
 ###### Making (the) Visible: Photography to the Web
 * The Browser as Creative Tool: Animating w/ p5.js
-* Running a Local Server, Atom/Sublime + JavaScript Workflow
+* Intro to Unix, Running a Local Python Server, Text Editors (Atom, Sublime or Brackets?) + JavaScript Workflow
 * setup(), draw() and the Animation Loop
 * p5.js Structure + Environment Functions
 * Local + Global Variables: Numbers + Strings
 
-
-#### Assignment:
+###### Assignment:
 * Read Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * Read Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
 * Read Hito Steyerl - [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
 * Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
 
+#### Resources:
+* * Coding Rainbow Video Tutorials
+** [p5.js Manager, Text Editor Workflow, Unix (MacOS Command Line) Basics + JavaScript Console](https://www.youtube.com/watch?v=HZ4D3wDRaec&index=2&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 ##### Week 3 -- February 14
+###### Looking @ Landscape: Random == Nature
+* Conditionals + Boolean Logic
+* random() + noise()
+* p5.js Transformation and Event Functions
+
+###### Assignment:
+* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
+* Take last week’s code and make it interactive.
 
 ##### Week 4 -- February 21
 
