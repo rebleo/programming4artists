@@ -29,17 +29,19 @@ ___
 ###### Making (the) Visible: Photography to the Web
 * The Browser as Creative Tool: Animating w/ p5.js
 * Intro to Unix, Running a Local Python Server, Text Editors (Atom, Sublime or Brackets?) + JavaScript Workflow
+* Working w/ p5.js: [Download the Library Locally](https://p5js.org/download/) or [Link to the API](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.js)
 * setup(), draw() and the Animation Loop
-* p5.js Structure + Environment Functions
-* [mouseX](https://p5js.org/reference/#/p5/mouseX)+ [mouseY](https://p5js.org/reference/#/p5/mouseY)
-* Local + Global Variables: Numbers + Strings
+* p5.js Structure, Environment Functions + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
+* [mouseX](https://p5js.org/reference/#/p5/mouseX) + [mouseY](https://p5js.org/reference/#/p5/mouseY)
+* Local + Global [Variables](https://p5js.org/examples/data-variables.html): Numbers + Strings
 
 ###### Assignment:
-* Read Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-* Read Clement Greenberg - [Modernist Painting](https://voices.uchicago.edu/wittgenstein/files/2007/10/Greenbergmodpaint.pdf)
-* Read Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
+* Read:
+  * Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), 1945
+  * Clement Greenberg - [Modernist Painting](https://voices.uchicago.edu/wittgenstein/files/2007/10/Greenbergmodpaint.pdf), 1960
+  * Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), 2010
 
-* Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
+* Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time. How can you animate the image that considers + reflects the original artwork or artist?
 
 
 ##### Week 3 -- February 14
@@ -84,6 +86,7 @@ Weekly readings + tutorials linked from syllabus
 * [Intro to Programming for the Visual Artist with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) - Kadenze
 * [Code Academy](https://www.codecademy.com)
 * [Programming Design Systems](https://programmingdesignsystems.com/) - Rune Madson
+* [MDN - Getting Started w/ the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
 * More to come!
 
