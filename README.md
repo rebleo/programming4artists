@@ -36,8 +36,9 @@ ___
 
 ###### Assignment:
 * Read Vannevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+* Read Clement Greenberg - [Modernist Painting](https://voices.uchicago.edu/wittgenstein/files/2007/10/Greenbergmodpaint.pdf)
 * Read Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
-* Read Hito Steyerl - [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
+
 * Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time.
 
 
