@@ -27,10 +27,11 @@ ___
 
 ##### Week 2 -- February 7
 ###### Making (the) Visible: Photography to the Web
+* Look at Homework + Reading Discussion
 * The Browser as Creative Tool: Animating w/ p5.js
 * Intro to Unix, Running a Local Python Server, Text Editors (Atom, Sublime or Brackets?) + JavaScript Workflow
 * Working w/ p5.js: [Download the Library Locally](https://p5js.org/download/) or [Link to the API](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.js)
-* setup(), draw() and the Animation Loop
+* [setup()](https://p5js.org/reference/#/p5/setup), [draw()](https://p5js.org/reference/#/p5/draw) + the Animation Loop
 * p5.js Structure, Environment Functions + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
 * [mouseX](https://p5js.org/reference/#/p5/mouseX) + [mouseY](https://p5js.org/reference/#/p5/mouseY)
 * Local + Global [Variables](https://p5js.org/examples/data-variables.html): Numbers + Strings
@@ -46,12 +47,13 @@ ___
 
 ##### Week 3 -- February 14
 ###### Looking @ Landscape: Random == Nature
+* Look at Homework + Reading Discussion
 * Conditionals + Boolean Logic
-* random() + noise()
+* [random()](https://p5js.org/reference/#/p5/random) + [noise()](https://p5js.org/reference/#/p5/noise)
 * p5.js Transformation and Event Functions
 
 ###### Assignment:
-* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
+* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf), 2013
 * Take last week’s code and make it interactive.
 
 ##### Week 4 -- February 21
