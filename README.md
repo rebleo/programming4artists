@@ -6,7 +6,7 @@ This course is an introduction to the fundamentals of computer programming throu
 ##### About
 * The City College of New York, MFA in Digital & Interdisciplinary Art Practice
 * B2050-2080 || Wednesdays 2:00 pm - 4:50pm || Shepard Hall, 408
-* rebecca (marks) leopold, email: Rebecca.Leopold@qc.cuny.edu - Office hours after class or by appointment.
+* rebecca (marks) leopold, email: rleopold@ccny.cuny.edu - Office hours after class or by appointment.
 * [Course Website](http://github.com/rebleo/programming4artists)
 * [Course Wiki](https://github.com/rebleo/programming4artists/wiki)
 ___
