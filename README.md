@@ -30,7 +30,7 @@ ___
 * Look at Homework + Reading Discussion
 * The Browser as Creative Tool: Animating w/ p5.js
   * Intro to Unix, Running a Local Python Server, Text Editors ([Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or [Brackets](http://brackets.io/)) Workflow
-	* JavaScript in the [Chrome](https://www.google.com/chrome/browser/features.html?brand=CHBD&ds_kid=43700010857921807&gclid=EAIaIQobChMIm9jQwvKS2QIVmLXACh1qegcbEAAYASABEgLAMfD_BwE&gclsrc=aw.ds&dclid=CLqly8XyktkCFddGNwodY9EI_Q)Browser Console
+	* JavaScript in the [Chrome](https://www.google.com/chrome/browser/features.html?brand=CHBD&ds_kid=43700010857921807&gclid=EAIaIQobChMIm9jQwvKS2QIVmLXACh1qegcbEAAYASABEgLAMfD_BwE&gclsrc=aw.ds&dclid=CLqly8XyktkCFddGNwodY9EI_Q) Browser Console
   * Working w/ p5.js: [Download the Library Locally](https://p5js.org/download/) or [Link to the p5.js API](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.js)
 * [setup()](https://p5js.org/reference/#/p5/setup), [draw()](https://p5js.org/reference/#/p5/draw), [frameCount](https://p5js.org/reference/#/p5/frameCount) + the Animation Loop
 * p5.js [Structure](https://p5js.org/reference/#group-Structure), [Environment Functions](https://p5js.org/reference/#group-Environment) + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
@@ -43,7 +43,7 @@ ___
   * Clement Greenberg - [Modernist Painting](https://voices.uchicago.edu/wittgenstein/files/2007/10/Greenbergmodpaint.pdf), 1960
   * Tim Berners-Lee - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), 2010
 
-* Take last week’s code, and copy it to your local machine. Using the text editor - create .html + .js files that link to the p5.js library. Using the command line to browser workflow - make part of the image move over time. How can you animate the image that reflects the original artwork or artist?
+* Take last week’s code, and copy it to your local machine. Using the text editor - create .html + .js files that link to the p5.js library. Using the command line to browser workflow - make part of the image move over time. How can you animate the image that reflects or augments the original artwork or artist?
 
 ___
 ##### Week 3 -- February 14
