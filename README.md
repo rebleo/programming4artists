@@ -24,13 +24,13 @@ ___
 * Watch John Berger - [Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 * Read John Berger - [Understanding a Photograph](http://oldobjectsnewideas.com/_bergerUnderstandingPhotograph.pdf)
 * Find a geometric work from an artist you admire. Recreate the image using the p5.js web editor. Post a link to the class [wiki](https://github.com/rebleo/programming4artists/wiki/Week-1).
-
+___
 ##### Week 2 -- February 7
 ###### Making (the) Visible: Photography to the Web
 * Look at Homework + Reading Discussion
 * The Browser as Creative Tool: Animating w/ p5.js
-* Intro to Unix, Running a Local Python Server, Text Editors (Atom, Sublime or Brackets?) + JavaScript Workflow
-* Working w/ p5.js: [Download the Library Locally](https://p5js.org/download/) or [Link to the API](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.js)
+  * Intro to Unix, Running a Local Python Server, Text Editors ([Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or [Brackets](http://brackets.io/) + JavaScript Workflow
+  * Working w/ p5.js: [Download the Library Locally](https://p5js.org/download/) or [Link to the API](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.js)
 * [setup()](https://p5js.org/reference/#/p5/setup), [draw()](https://p5js.org/reference/#/p5/draw) + the Animation Loop
 * p5.js Structure, Environment Functions + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
 * [mouseX](https://p5js.org/reference/#/p5/mouseX) + [mouseY](https://p5js.org/reference/#/p5/mouseY)
@@ -44,7 +44,7 @@ ___
 
 * Take last week’s code, and copy it to your local machine. Using the text editor, command line, browser workflow - make part of the image move over time. How can you animate the image that considers + reflects the original artwork or artist?
 
-
+___
 ##### Week 3 -- February 14
 ###### Looking @ Landscape: Random == Nature
 * Look at Homework + Reading Discussion
@@ -56,20 +56,56 @@ ___
 * Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf), 2013
 * Take last week’s code and make it interactive.
 
+___
 ##### Week 4 -- February 21
+###### Patterns, Procedures + Repetition: Generating Art
+* While + For Loops
+* p5.js Constant and Math Functions
 
+###### Assignment:
+* Read Seymour Papert - Mind-Storms [Chapter TBD]
+
+___
 ##### Week 5 -- February 28
+* Making Your Own Functions
+* Objects + Arrays
+
+###### Assignment:
+* Read: Alan Turing - Computing Machinery and Intelligence
+___
 
 ##### Week 6 -- March 7
+###### Automation
+* Importing Images and Video
+* p5.js Image Functions
 
+___
 ##### Week 7 -- March 14
+###### Data + Art
+* JSON + APIs
+* p5.js JSON + String Functions
+
+###### Assignment:
+* Go To MoMA - See Thinking Machines: Art and Design in the Computer Age and the Stephen Shore retrospective. Please post any thoughts you have in a blog entry.
+
+___
 
 ##### Week 8 -- March 21
+###### Participation: Social Media, Bots, Memes, the Stream
+* p5.js Dom Library
+* HTML + CSS
+* Native JavaScript
+___
 
 ##### Week 9 -- March 28
-###### Midterm Critique
+###### Making Mobile
+* Touch Interaction
+* Events - Device Moved, Turned, Shaken
+* Sensors - Rotation, Acceleration, Geolocation
+___
 
 ##### Week 10 -- April 11
+* Intro to the Server Side or Intro to Python
 
 ##### Week 12 -- April 18
 
