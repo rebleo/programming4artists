@@ -36,7 +36,6 @@ ___
 * p5.js [Structure](https://p5js.org/reference/#group-Structure), [Environment Functions](https://p5js.org/reference/#group-Environment) + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
 * [mouseX](https://p5js.org/reference/#/p5/mouseX) + [mouseY](https://p5js.org/reference/#/p5/mouseY)
 * Local + Global [Variables](https://p5js.org/examples/data-variables.html): Numbers + Strings
-* If you do not have access to web server space with w/ [SFTP](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server) access - we can do this together today. [Dreamhost](https://www.dreamhost.com/promo/edu/) seems to be having an .edu sale - one year for $5 a month.
 
 ###### Assignment:
 * Read:
