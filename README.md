@@ -36,6 +36,7 @@ ___
 * p5.js [Structure](https://p5js.org/reference/#group-Structure), [Environment Functions](https://p5js.org/reference/#group-Environment) + [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
 * [mouseX](https://p5js.org/reference/#/p5/mouseX) + [mouseY](https://p5js.org/reference/#/p5/mouseY)
 * Local + Global [Variables](https://p5js.org/examples/data-variables.html): Numbers + Strings
+* [Week 2 Class Notes](http://oldobjectsnewideas.com/p4a/week2.pdf)
 
 ###### Assignment:
 * Read:
