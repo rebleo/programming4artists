@@ -55,9 +55,8 @@ ___
 * p5.js Transformation and Event Functions
 
 ###### Assignment:
-* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf), 2013
+* Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
 * Take last week’s code and make it interactive.
-
 ___
 ##### Week 4 -- February 21
 ###### Patterns, Procedures + Repetition: Generating Art
@@ -65,7 +64,7 @@ ___
 * p5.js Constant and Math Functions
 
 ###### Assignment:
-* Read Seymour Papert - Mind-Storms [Chapter TBD]
+* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
 
 ___
 ##### Week 5 -- February 28
@@ -73,6 +72,7 @@ ___
 * Objects + Arrays
 
 ###### Assignment:
+* Read Seymour Papert - Mind-Storms [Chapter TBD]
 * Read: Alan Turing - Computing Machinery and Intelligence
 ___
 
@@ -88,8 +88,7 @@ ___
 * p5.js JSON + String Functions
 
 ###### Assignment:
-* Go To MoMA - See Thinking Machines: Art and Design in the Computer Age and the Stephen Shore retrospective. Please post any thoughts you have in a blog entry.
-
+* Read Taeyoon Choi's [Poetic Computation: Reader Chapter 3](http://poeticcomputation.info/)
 ___
 
 ##### Week 8 -- March 21
