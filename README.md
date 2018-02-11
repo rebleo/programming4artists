@@ -106,7 +106,7 @@ ___
 ___
 
 ##### Week 10 -- April 11
-* Intro to the Server Side or Intro to Python
+
 
 ##### Week 12 -- April 18
 
