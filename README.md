@@ -53,6 +53,9 @@ ___
 * Conditionals + Boolean Logic
 * [random()](https://p5js.org/reference/#/p5/random) + [noise()](https://p5js.org/reference/#/p5/noise)
 * p5.js Transformation and Event Functions
+  * [rotate()](https://p5js.org/reference/#/p5/rotate)
+  * [map()](https://p5js.org/reference/#/p5/map)
+	*[keyPressed](https://p5js.org/reference/#/p5/keyPressed)
 
 ###### Assignment:
 * Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
@@ -127,8 +130,8 @@ Weekly readings + tutorials linked from syllabus
 * [Programming Design Systems](https://programmingdesignsystems.com/) - Rune Madson
 * [MDN - Getting Started w/ the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
-* More to come!
 
+* [Learn Enough to Be Dangerous](https://www.learnenough.com/)
 ---
 #### Course Requirements:
 Students are expected to participate in class: contributing positively to discussions, arriving on time having thoughtfully completed the reading, technical and creative assignments. Although you will need your laptop with you for every class, computers should be closed and mobile devices silent and not glowing during critique, class discussion and technical demonstrations.
