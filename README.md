@@ -51,61 +51,65 @@ ___
 ###### Looking @ Landscape: Random == Nature
 * Look at Homework + Reading Discussion
 * Conditionals + Boolean Logic
+* Setting Up A DreamHost Server + SFTP Client
 * [random()](https://p5js.org/reference/#/p5/random) + [noise()](https://p5js.org/reference/#/p5/noise)
 * p5.js Transformation and Event Functions
   * [rotate()](https://p5js.org/reference/#/p5/rotate)
   * [map()](https://p5js.org/reference/#/p5/map)
-	*[keyPressed](https://p5js.org/reference/#/p5/keyPressed)
+	* [keyPressed()](https://p5js.org/reference/#/p5/keyPressed) + [mousepressed()](https://p5js.org/reference/#/p5/mousePressed)
 
 ###### Assignment:
-* Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
 * Take last week’s code and make it interactive.
+* Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
+
 ___
 ##### Week 4 -- February 21
 ###### Patterns, Procedures + Repetition: Generating Art
 * While + For Loops
+* Making Your Own Functions
 * p5.js Constant and Math Functions
 
 ###### Assignment:
 * Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
+* Make a generative sketch that uses at least one FOR loop
 
 ___
 ##### Week 5 -- February 28
-* Making Your Own Functions
 * Objects + Arrays
+* Importing Images and Video
+* p5.js Image Functions
+
+###### Assignment:
+* Read Lev Manovich [The Anti-Sublime](hhttp://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
+* Read Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
+
+___
+
+##### Week 6 -- March 7
+###### Data + Art
+* JSON + APIs
+* p5.js JSON + String Functions
 
 ###### Assignment:
 * Read Seymour Papert - Mind-Storms [Chapter TBD]
 * Read: Alan Turing - Computing Machinery and Intelligence
 ___
 
-##### Week 6 -- March 7
-###### Automation
-* Importing Images and Video
-* p5.js Image Functions
-
-___
 ##### Week 7 -- March 14
-###### Data + Art
-* JSON + APIs
-* p5.js JSON + String Functions
-
-###### Assignment:
-* Read Taeyoon Choi's [Poetic Computation: Reader Chapter 3](http://poeticcomputation.info/)
-___
-
-##### Week 8 -- March 21
-###### Participation: Social Media, Bots, Memes, the Stream
 * p5.js Dom Library
 * HTML + CSS
 * Native JavaScript
 ___
 
-##### Week 9 -- March 28
+##### Week 8 -- March 21
 ###### Making Mobile
 * Touch Interaction
 * Events - Device Moved, Turned, Shaken
 * Sensors - Rotation, Acceleration, Geolocation
+___
+
+##### Week 9 -- March 28
+* Intro to Node + the Server Side
 ___
 
 ##### Week 10 -- April 11
