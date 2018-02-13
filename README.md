@@ -51,12 +51,13 @@ ___
 ###### Looking @ Landscape: Random == Nature
 * Look at Homework + Reading Discussion
 * Conditionals + Boolean Logic
-* Setting Up A DreamHost Server + SFTP Client
 * [random()](https://p5js.org/reference/#/p5/random) + [noise()](https://p5js.org/reference/#/p5/noise)
 * p5.js Transformation and Event Functions
   * [rotate()](https://p5js.org/reference/#/p5/rotate)
   * [map()](https://p5js.org/reference/#/p5/map)
-	* [keyPressed()](https://p5js.org/reference/#/p5/keyPressed) + [mousepressed()](https://p5js.org/reference/#/p5/mousePressed)
+  * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed)
+	* [mousepressed()](https://p5js.org/reference/#/p5/mousePressed)
+* Setting Up A DreamHost Server + SFTP Client
 
 ###### Assignment:
 * Take last week’s code and make it interactive.
@@ -70,8 +71,8 @@ ___
 * p5.js Constant and Math Functions
 
 ###### Assignment:
+* Make a generative sketch that is different every time the program runs. Use at least one FOR loop
 * Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
-* Make a generative sketch that uses at least one FOR loop
 
 ___
 ##### Week 5 -- February 28
@@ -80,7 +81,7 @@ ___
 * p5.js Image Functions
 
 ###### Assignment:
-* Read Lev Manovich [The Anti-Sublime](hhttp://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
+* Read Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
 * Read Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 
 ___
@@ -113,7 +114,6 @@ ___
 ___
 
 ##### Week 10 -- April 11
-
 
 ##### Week 12 -- April 18
 
