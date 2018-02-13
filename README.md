@@ -57,7 +57,7 @@ ___
   * [map()](https://p5js.org/reference/#/p5/map)
   * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed)
 	* [mousepressed()](https://p5js.org/reference/#/p5/mousePressed)
-* Setting Up A DreamHost Server + SFTP Client
+* Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server) [Client](http://cyberduck.io)
 
 ###### Assignment:
 * Take last week’s code and make it interactive.
