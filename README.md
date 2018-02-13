@@ -55,12 +55,11 @@ ___
 * p5.js Transformation and Event Functions
   * [rotate()](https://p5js.org/reference/#/p5/rotate)
   * [map()](https://p5js.org/reference/#/p5/map)
-  * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed)
-	* [mousepressed()](https://p5js.org/reference/#/p5/mousePressed)
-* Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server) [Client](http://cyberduck.io)
+  * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed) + [mousePressed()](https://p5js.org/reference/#/p5/mousePressed)
+* Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP Client](http://cyberduck.io)
 
 ###### Assignment:
-* Take last week’s code and make it interactive.
+* Take last week’s code and make it interactive. Put your sketch online. 
 * Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
 
 ___
