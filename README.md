@@ -48,7 +48,7 @@ ___
 
 ___
 ##### Week 3 -- February 14
-###### Looking @ Landscape: Random == Nature
+###### Material Logic: Random == Nature
 * Look at Homework + Reading Discussion
 * Conditionals + Boolean Logic
 * [random()](https://p5js.org/reference/#/p5/random) + [noise()](https://p5js.org/reference/#/p5/noise)
@@ -59,7 +59,7 @@ ___
 * Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP Client](http://cyberduck.io)
 
 ###### Assignment:
-* Take last week’s code and make it interactive. Put your sketch online. 
+* Take last week’s code and make it interactive. Put your sketch online.
 * Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
 
 ___
@@ -70,7 +70,7 @@ ___
 * p5.js Constant and Math Functions
 
 ###### Assignment:
-* Make a generative sketch that is different every time the program runs. Use at least one FOR loop
+* Make a generative sketch that is different every time the program runs. Use at least one for loop.
 * Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
 
 ___
@@ -99,6 +99,7 @@ ___
 * p5.js Dom Library
 * HTML + CSS
 * Native JavaScript
+
 ___
 
 ##### Week 8 -- March 21
@@ -109,8 +110,6 @@ ___
 ___
 
 ##### Week 9 -- March 28
-* Intro to Node + the Server Side
-___
 
 ##### Week 10 -- April 11
 
@@ -142,10 +141,9 @@ Students are expected to participate in class: contributing positively to discus
 ##### Assessment + Grading:
 Assignments must be completed and posted to the [class wiki](https://github.com/rebleo/programming4artists/wiki) by 12pm the day of class. Late work loses a letter grade and will not be accepted more than two weeks past the due date. Attendance at each class meeting is mandatory. Arriving more than 15 minutes late will be considered an absence. Three absences will lower your grade by one letter. Four absences will result in failure.
 
- * Participation + effort during weekly discussions 20%
- * Regular Assignments																 30%
- * Midterm Critique																	 20%
- * Final Critique																		 20%
+ * Participation + effort during weekly discussions + workshops 		30%
+ * Regular Assignments																 							40%
+ * Final Critique																		 								30%
 
 ##### Blogs:
 You are required to maintain a blog for this class where you will post your homework to link to from the class wiki. Often times when making work with code, something might not be working the day of class. It is important to constantly document your process. If a sketch is not working during critique, the blog post is essential for us to see and comment on your process. There are many free options that will offer you enough storage space for the semester. I suggest [Wordpress](https://wordpress.com/) or [Medium](http://www.medium.com) but choose whatever platform you prefer.
