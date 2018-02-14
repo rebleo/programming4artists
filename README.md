@@ -56,10 +56,10 @@ ___
   * [rotate()](https://p5js.org/reference/#/p5/rotate)
   * [map()](https://p5js.org/reference/#/p5/map)
   * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed) + [mousePressed()](https://p5js.org/reference/#/p5/mousePressed)
-* Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP Client](http://cyberduck.io)
+* Workshop: Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP Client](http://cyberduck.io) and / or work on code assignments.
 
 ###### Assignment:
-* Take last week’s code and make it interactive. Put your sketch online.
+* Take last week’s code and make it interactive. Post to the [wiki](https://github.com/rebleo/programming4artists/wiki/Week-3)
 * Read Taeyoon Choi's [Poetic Computation: Reader Chapters 1 + 2](http://poeticcomputation.info/)
 
 ___
