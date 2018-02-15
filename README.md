@@ -57,6 +57,7 @@ ___
   * [map()](https://p5js.org/reference/#/p5/map)
   * [keyPressed()](https://p5js.org/reference/#/p5/keyPressed) + [mousePressed()](https://p5js.org/reference/#/p5/mousePressed)
 * Workshop: Setting Up A [DreamHost Server](https://www.dreamhost.com/promo/edu/) Wordpress Blog + [SFTP Client](http://cyberduck.io) and / or work on code assignments.
+* [Week 3 Notes](http://oldobjectsnewideas.com/p4a/week3.pdf)
 
 ###### Assignment:
 * Take last week’s code and make it interactive. Post to the [wiki](https://github.com/rebleo/programming4artists/wiki/Week-3)
@@ -132,8 +133,8 @@ Weekly readings + tutorials linked from syllabus
 * [Programming Design Systems](https://programmingdesignsystems.com/) - Rune Madson
 * [MDN - Getting Started w/ the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
-
 * [Learn Enough to Be Dangerous](https://www.learnenough.com/)
+* [Basic Unix Commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 ---
 #### Course Requirements:
 Students are expected to participate in class: contributing positively to discussions, arriving on time having thoughtfully completed the reading, technical and creative assignments. Although you will need your laptop with you for every class, computers should be closed and mobile devices silent and not glowing during critique, class discussion and technical demonstrations.
