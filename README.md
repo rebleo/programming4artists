@@ -68,21 +68,29 @@ ___
 ###### Patterns, Procedures + Repetition: Generating Art
 * While + For Loops
 * Making Your Own Functions
+  * Calling vs. defining
+	* Modularity, Re-usability
+	* Arguments + parameters
 * p5.js Constant and Math Functions
+  * [PI](https://p5js.org/reference/#/p5/PI)
+	* [HALF_PI](https://p5js.org/reference/#/p5/HALF_PI)
+	* angleMode() - [DEGREE](https://p5js.org/reference/#/p5/DEGREES) + [RADIANS](https://p5js.org/reference/#/p5/RADIANS)
+  * [sin](https://p5js.org/examples/math-sine.html)
 
 ###### Assignment:
-* Make a generative sketch that is different every time the program runs. Use at least one for loop.
-* Read Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
+* Make a generative sketch that is different every time the program runs. Use at least one for loop. Try writing + calling your own function.
+* Optional Reading: Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
 
 ___
 ##### Week 5 -- February 28
 * Objects + Arrays
+  * [Object Oriented Programming](https://shiffman.github.io/Learning-p5.js/ch08.html)
 * Importing Images and Video
 * p5.js Image Functions
 
 ###### Assignment:
-* Read Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
-* Read Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
+* Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
+* Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 
 ___
 
@@ -92,8 +100,8 @@ ___
 * p5.js JSON + String Functions
 
 ###### Assignment:
-* Read Seymour Papert - Mind-Storms [Chapter TBD]
-* Read: Alan Turing - Computing Machinery and Intelligence
+* Optional Reading: Seymour Papert - Mind-Storms [Chapter TBD]
+* Optional Reading: Alan Turing - Computing Machinery and Intelligence
 ___
 
 ##### Week 7 -- March 14
@@ -127,7 +135,8 @@ ___
 #### Resources:
 Weekly readings + tutorials linked from syllabus
 * [p5 Reference](https://p5js.org/reference/)
-* [The Coding Train](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14) - Dan Shiffman, YouTube
+* [The Coding Rainbow](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14) - Dan Shiffman, YouTube
+* [CODE from Coding Rainbow](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
 * [Intro to Programming for the Visual Artist with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) - Kadenze
 * [Code Academy](https://www.codecademy.com)
 * [Programming Design Systems](https://programmingdesignsystems.com/) - Rune Madson
