@@ -69,9 +69,12 @@ ___
 * While + For Loops
 * Making Your Own Functions
   * Calling vs. defining
-	* Modularity, Re-usability
-	* Arguments + parameters
+  * Modularity, Re-usability
+  * Arguments + parameters
 * p5.js Constant and Math Functions
+  * [dist()](https://p5js.org/reference/#/p5/dist)
+	* [map()](https://p5js.org/reference/#/p5/map)
+	* [lerp()](https://p5js.org/reference/#/p5/lerp)
   * [PI](https://p5js.org/reference/#/p5/PI)
 	* [HALF_PI](https://p5js.org/reference/#/p5/HALF_PI)
 	* angleMode() - [DEGREE](https://p5js.org/reference/#/p5/DEGREES) + [RADIANS](https://p5js.org/reference/#/p5/RADIANS)
