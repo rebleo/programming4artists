@@ -97,29 +97,28 @@ ___
 	* [image()](https://p5js.org/reference/#/p5/image)
 	* [saveCanvas()](https://p5js.org/reference/#/p5/saveCanvas)
 
-
 ###### Assignment:
 * Make a sketch ...
-* Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
-* Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 
 ___
 
 ##### Week 6 -- March 7
-###### Data + Art
+* p5.js Dom Library
+* HTML + CSS
+* Native JavaScript
+
+###### Assignment:
+* Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
+* Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
+___
+
+##### Week 7 -- March 14
+###### Working w/ Data
 * JSON + APIs
 * p5.js JSON + String Functions
 
 ###### Assignment:
 * Optional Reading: Seymour Papert - Mind-Storms [Chapter TBD]
-* Optional Reading: Alan Turing - Computing Machinery and Intelligence
-___
-
-##### Week 7 -- March 14
-* p5.js Dom Library
-* HTML + CSS
-* Native JavaScript
-
 ___
 
 ##### Week 8 -- March 21
@@ -127,9 +126,13 @@ ___
 * Touch Interaction
 * Events - Device Moved, Turned, Shaken
 * Sensors - Rotation, Acceleration, Geolocation
+
+###### Assignment:
+* Optional Reading: Alan Turing - Computing Machinery and Intelligence
 ___
 
 ##### Week 9 -- March 28
+###### More Mobile
 ___
 ##### Week 10 -- April 11
 ___
