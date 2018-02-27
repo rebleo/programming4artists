@@ -88,10 +88,18 @@ ___
 ##### Week 5 -- February 28
 * Objects + Arrays
   * [Object Oriented Programming](https://shiffman.github.io/Learning-p5.js/ch08.html)
+	* Adding an item to an array - [.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+	* Removing an item from an array - [.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 * Importing Images and Video
 * p5.js Image Functions
+	* [preload()](https://p5js.org/reference/#/p5/preload)
+  * [loadImage()](https://p5js.org/reference/#/p5/loadImage)
+	* [image()](https://p5js.org/reference/#/p5/image)
+	* [saveCanvas()](https://p5js.org/reference/#/p5/saveCanvas)
+
 
 ###### Assignment:
+* Make a sketch ...
 * Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
 * Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 
@@ -122,17 +130,22 @@ ___
 ___
 
 ##### Week 9 -- March 28
-
+___
 ##### Week 10 -- April 11
+___
 
 ##### Week 12 -- April 18
+___
 
 ##### Week 13 -- April 25
+___
 
 ##### Week 14 -- May 2
+###### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
+___
 
 ##### Week 15 -- May 9
-###### Final Critique
+######
 
 ---
 #### Resources:
