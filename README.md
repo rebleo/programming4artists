@@ -86,28 +86,31 @@ ___
 
 ___
 ##### Week 5 -- February 28
-* Objects + Arrays
+* Arrays
+  * Adding an item to an array - [.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+  * Removing an item from an array - [.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+* Objects
   * [Object Oriented Programming](https://shiffman.github.io/Learning-p5.js/ch08.html)
-	* Adding an item to an array - [.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
-	* Removing an item from an array - [.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
-* Importing Images and Video
 * p5.js Image Functions
-	* [preload()](https://p5js.org/reference/#/p5/preload)
-  * [loadImage()](https://p5js.org/reference/#/p5/loadImage)
-	* [image()](https://p5js.org/reference/#/p5/image)
-	* [saveCanvas()](https://p5js.org/reference/#/p5/saveCanvas)
+	* [preload()](https://p5js.org/reference/#/p5/preload), [loadImage()](https://p5js.org/reference/#/p5/loadImage), [image()](https://p5js.org/reference/#/p5/image), [saveCanvas()](https://p5js.org/reference/#/p5/saveCanvas)
 
 ###### Assignment:
-* Make a sketch ...
+* Create an interactive sketch that keeps track of user action over the course of the sketch's execution. The sketch should allow the user to use clicks, keypresses, etc. to add new elements to the scene (and potentially remove them later). Try loading images or use language to expand the meaning of your program beyond abstract graphics. 
 
+* Optional Reading: Jer Thorp [Art + The API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
+* Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
+* Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 ___
 
 ##### Week 6 -- March 7
 * p5.js Dom Library
 * HTML + CSS
 * Native JavaScript
+* Intro 2 Data
+* Review + Workshop
 
 ###### Assignment:
+* Optional Reading: Jer Thorp [Art + The API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
 * Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
 * Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
 ___
