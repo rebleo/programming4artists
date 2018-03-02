@@ -29,13 +29,17 @@ function draw() {
     rect(theObjects[i].theX, theObjects[i].theY, 50, 25);
   }
 }
+//
+//
+// Code + Explaination From: Allsion Parris' Arrays + Objects: https://creative-coding.decontextualize.com/arrays-and-objects/
 // objects - are data structures, key - value pairs
 // this object has 3 keys: theX, theY + theColor
 // + their values are mouseX, mouseY + a random gray value
 //
-// Code + Explaination From: Allsion Parris' Arrays + Objects: https://creative-coding.decontextualize.com/arrays-and-objects/
 function mousePressed() {
   // key: value
+  // this is creating an object AND pushing it into the array @ the same time. How elegant!
+  //
   theObjects.push({
     theX: mouseX,
     theY: mouseY,
