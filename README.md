@@ -95,7 +95,7 @@ ___
 	* [preload()](https://p5js.org/reference/#/p5/preload), [loadImage()](https://p5js.org/reference/#/p5/loadImage), [image()](https://p5js.org/reference/#/p5/image), [saveCanvas()](https://p5js.org/reference/#/p5/saveCanvas)
 
 ###### Assignment:
-* Create an interactive sketch that keeps track of user action over the course of the sketch's execution. The sketch should allow the user to use clicks, keypresses, etc. to add new elements to the scene (and potentially remove them later). Try loading images or use language to expand the meaning of your program beyond abstract graphics. 
+* Create an interactive sketch that keeps track of user action over the course of the sketch's execution. The sketch should allow the user to use clicks, keypresses, etc. to add new elements to the scene (and potentially remove them later). Try loading images or use language to expand the meaning of your program beyond abstract graphics.
 
 * Optional Reading: Jer Thorp [Art + The API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
 * Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
@@ -110,6 +110,8 @@ ___
 * Review + Workshop
 
 ###### Assignment:
+ * Keep going through tutorials and documentation. Make a new sketch or take existing code and change it. Write comments for each line explaining what is happening. If it is example code from a tutorial, personalize it further. Try out the DOM library.
+* Start thinking about what you want to work on for a final project and/or what technical materials you are interested in exploring.
 * Optional Reading: Jer Thorp [Art + The API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
 * Optional Reading: Lev Manovich [The Anti-Sublime](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html)
 * Optional Reading: Freeman, Wiggins, Starks + Sandler [A Concise Taxonomy for Describing Data as an Art Material](https://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414)
@@ -135,23 +137,36 @@ ___
 ___
 
 ##### Week 9 -- March 28
-###### More Mobile
+* Final Project Proposals
+
+###### Assignment:
+	* Optional Reading: Alexander Galloway - Internet Art
 ___
 ##### Week 10 -- April 11
+TBD
 ___
 
-##### Week 12 -- April 18
+##### Week 11 -- April 18
+TBD
 ___
 
-##### Week 13 -- April 25
+##### Week 12 -- April 25
+TBD
+* Work on final projects
 ___
 
-##### Week 14 -- May 2
+##### Week 13 -- May 2
 ###### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
 ___
 
-##### Week 15 -- May 9
-######
+##### Week 14 -- May 9
+* Work on final projects
+
+##### Week 15 -- May 16
+* Work on final projects
+
+##### Week 16 -- May 23
+###### FINAL CRITIQUE
 
 ---
 #### Resources:
@@ -163,7 +178,7 @@ Weekly readings + tutorials linked from syllabus
 * [Code Academy](https://www.codecademy.com)
 * [Programming Design Systems](https://programmingdesignsystems.com/) - Rune Madson
 * [MDN - Getting Started w/ the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-* [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt)
+* [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) - Lauren McCarthy, Casey Reas + Been Fry
 * [Learn Enough to Be Dangerous](https://www.learnenough.com/)
 * [Basic Unix Commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 ---
