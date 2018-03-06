@@ -22,7 +22,7 @@ ___
 
 ###### Assignment:
 * Watch John Berger - [Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
-* Read John Berger - [Understanding a Photograph](http://oldobjectsnewideas.com/_bergerUnderstandingPhotograph.pdf)
+* Read John Berger - [Understanding a Photograph](http://oldobjectsnewideas.com/_reading/_bergerUnderstandingPhotograph.pdf)
 * Find a geometric work from an artist you admire. Recreate the image using the p5.js web editor. Post a link to the class [wiki](https://github.com/rebleo/programming4artists/wiki/Week-1).
 ___
 ##### Week 2 -- February 7
@@ -82,7 +82,7 @@ ___
 
 ###### Assignment:
 * Make a generative sketch that is different every time the program runs. Use at least one for loop. Try writing + calling your own function.
-* Optional Reading: Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/p4a/SoftwareTakesCommand_1.pdf)
+* Optional Reading: Lev Manovich - Software Takes Command Chapter 1 - [Alan Kay’s Universal Media Machine](http://oldobjectsnewideas.com/_reading/SoftwareTakesCommand_1.pdf)
 
 ___
 ##### Week 5 -- February 28
@@ -123,7 +123,7 @@ ___
 * p5.js JSON + String Functions
 
 ###### Assignment:
-* Optional Reading: Seymour Papert - Mind-Storms [Chapter TBD]
+* Optional Reading: Seymour Papert - Mind-Storms [Chapter 7](http://oldobjectsnewideas.com/_reading/_papertMindStorms7.pdf)
 ___
 
 ##### Week 8 -- March 21
@@ -133,7 +133,7 @@ ___
 * Sensors - Rotation, Acceleration, Geolocation
 
 ###### Assignment:
-* Optional Reading: Alan Turing - Computing Machinery and Intelligence
+* Optional Reading: Alan Turing - [Computing Machinery and Intelligence](http://oldobjectsnewideas.com/_reading/_turingComputing.pdf)
 ___
 
 ##### Week 9 -- March 28
