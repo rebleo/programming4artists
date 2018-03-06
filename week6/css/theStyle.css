@@ -1,0 +1,49 @@
+
+h1 {
+	font-family:cursive;
+	color: #FF4500;
+	text-align: center;
+	font-size: 64px;
+}
+
+h2 {
+	font-family: sans-serif;
+	color:black;
+	text-align: center;
+	text-decoration: line-through;
+}
+
+
+body {
+	background: purple;
+	font-family: sans-serif;
+	color: rgb(255,255,255);
+}
+
+a {
+	font-size: 32px;
+	text-decoration: underline;
+	color:Pink;
+
+}
+
+a:hover{
+	color: DarkCyan;
+	box-shadow: 5px 5px 5px yellow;
+
+}
+
+
+/* create your own class selector */
+/* https://www.w3schools.com/cssref/sel_class.asp */
+.kanye{
+		/* padding: 100px; */
+}
+
+.kanye:hover {
+	padding: 100px;
+	cursor: pointer;
+	box-shadow: 300px 300px 300px yellow;
+
+
+}
