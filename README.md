@@ -118,11 +118,15 @@ ___
 ___
 
 ##### Week 7 -- March 14
-###### Working w/ Data
+###### Data and Art
+* Working w/ data
 * JSON + APIs
-* p5.js JSON + String Functions
+* [preload()](https://p5js.org/reference/#/p5/preload), [loadJSON()](https://p5js.org/reference/#/p5/loadJSON), [join()](https://p5js.org/reference/#/p5/join), [match()](https://p5js.org/reference/#/p5/match), [splitTokens()](https://p5js.org/reference/#/p5/splitTokens)
+* Review + Workshop
+
 
 ###### Assignment:
+* Make a sketch using data. You can create the data set yourself or find an existing source. Try loading the information into your sketch either locally or via the web. Interpret this data visually or interactively.
 * Optional Reading: Seymour Papert - Mind-Storms [Chapter 7](http://oldobjectsnewideas.com/_reading/_papertMindStorms7.pdf)
 ___
 
@@ -137,13 +141,15 @@ ___
 ___
 
 ##### Week 9 -- March 28
-* Final Project Proposals
+###### Image + Video: Playing w/ Pixels
 
 ###### Assignment:
 	* Optional Reading: Alexander Galloway - Internet Art
 ___
+
 ##### Week 10 -- April 11
-TBD
+* Final Project Proposals
+
 ___
 
 ##### Week 11 -- April 18
