@@ -121,7 +121,8 @@ ___
 ###### Data and Art
 * Working w/ data
 * JSON + APIs
-* [preload()](https://p5js.org/reference/#/p5/preload), [loadJSON()](https://p5js.org/reference/#/p5/loadJSON), [join()](https://p5js.org/reference/#/p5/join), [match()](https://p5js.org/reference/#/p5/match), [splitTokens()](https://p5js.org/reference/#/p5/splitTokens)
+* p5.js JSON + String Functions
+  * [preload()](https://p5js.org/reference/#/p5/preload), [loadJSON()](https://p5js.org/reference/#/p5/loadJSON), [join()](https://p5js.org/reference/#/p5/join), [match()](https://p5js.org/reference/#/p5/match), [splitTokens()](https://p5js.org/reference/#/p5/splitTokens)
 * Review + Workshop
 
 
@@ -144,7 +145,7 @@ ___
 ###### Image + Video: Playing w/ Pixels
 
 ###### Assignment:
-	* Optional Reading: Alexander Galloway - Internet Art
+* Optional Reading: Alexander Galloway - Internet Art
 ___
 
 ##### Week 10 -- April 11
