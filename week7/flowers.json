@@ -1,0 +1,23 @@
+{
+  "theFlowers": [{
+      "name": "sunflower",
+      "size": 50,
+      "r": 255,
+      "g": 300,
+      "b": 0
+    },
+    {
+      "name": "tulip",
+      "size": 100,
+      "r": 0,
+      "g": 200,
+      "b": 200
+    }, {
+      "name": "rose",
+      "size": 150,
+      "r": 255,
+      "g": 0,
+      "b": 0
+    }
+  ]
+}
