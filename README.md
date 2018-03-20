@@ -133,8 +133,9 @@ ___
 
 ##### Week 8 -- March 21
 ###### Making Mobile
-* p5.js Touch Interaction - [touchStarted()](https://p5js.org/reference/#/p5.Element/touchStarted), [touchMoved()](https://p5js.org/reference/#/p5.Element/touchMoved), [touchEnded()](https://p5js.org/reference/#/p5.Element/touchEnded)
-* Events - [deviceMoved()](https://p5js.org/reference/#/p5/deviceMoved), [deviceTurned()](https://p5js.org/reference/#/p5/deviceTurned), [deviceShaken()](https://p5js.org/reference/#/p5/deviceShaken)
+* Remote local server workflow
+* p5.js Touch Interaction - [touches()](https://p5js.org/reference/#/p5/touches), [touchStarted()](https://p5js.org/reference/#/p5.Element/touchStarted), [touchMoved()](https://p5js.org/reference/#/p5.Element/touchMoved), [touchEnded()](https://p5js.org/reference/#/p5.Element/touchEnded)
+* p5.js mobile events - [deviceMoved()](https://p5js.org/reference/#/p5/deviceMoved), [deviceTurned()](https://p5js.org/reference/#/p5/deviceTurned), [deviceShaken()](https://p5js.org/reference/#/p5/deviceShaken)
 * [Hammer.js](http://hammerjs.github.io/) - library for touch interaction
 * Workshop
 
