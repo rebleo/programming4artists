@@ -133,11 +133,13 @@ ___
 
 ##### Week 8 -- March 21
 ###### Making Mobile
-* Touch Interaction
-* Events - Device Moved, Turned, Shaken
-* Sensors - Rotation, Acceleration, Geolocation
+* p5.js Touch Interaction - [touchStarted()](https://p5js.org/reference/#/p5.Element/touchStarted), [touchMoved()](https://p5js.org/reference/#/p5.Element/touchMoved), [touchEnded()](https://p5js.org/reference/#/p5.Element/touchEnded)
+* Events - [deviceMoved()](https://p5js.org/reference/#/p5/deviceMoved), [deviceTurned()](https://p5js.org/reference/#/p5/deviceTurned), [deviceShaken()](https://p5js.org/reference/#/p5/deviceShaken)
+* [Hammer.js](http://hammerjs.github.io/) - library for touch interaction
+* Workshop
 
 ###### Assignment:
+* Using sample code - create an interactive sketch that is a mobile-specific artwork. Think of how you can transform a viewer's personal interaction with their device and consider mobile as an artistic medium. Think of importing images or text to further your concept. We will have time to work on this in class.
 * Optional Reading: Alan Turing - [Computing Machinery and Intelligence](http://oldobjectsnewideas.com/_reading/_turingComputing.pdf)
 ___
 
