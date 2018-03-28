@@ -130,8 +130,9 @@ ___
 * Make a sketch using data. You can create the data set yourself or find an existing source. Try loading the information into your sketch either locally or via the web. Interpret this data visually or interactively.
 * Optional Reading: Seymour Papert - Mind-Storms [Chapter 7](http://oldobjectsnewideas.com/_reading/_papertMindStorms7.pdf)
 ___
-
-##### Week 8 -- March 21
+##### Snow Day -- March 21
+___
+##### Week 8 -- March 28
 ###### Making Mobile
 * Remote local server workflow
 * p5.js Touch Interaction - [touches()](https://p5js.org/reference/#/p5/touches), [touchStarted()](https://p5js.org/reference/#/p5.Element/touchStarted), [touchMoved()](https://p5js.org/reference/#/p5.Element/touchMoved), [touchEnded()](https://p5js.org/reference/#/p5.Element/touchEnded)
@@ -140,42 +141,38 @@ ___
 * Workshop
 
 ###### Assignment:
-* Using sample code - create an interactive sketch that is a mobile-specific artwork. Think of how you can transform a viewer's personal interaction with their device and consider mobile as an artistic medium. Think of importing images or text to further your concept. We will have time to work on this in class.
+* Next class you will be presenting your final project ideas for discussion with the rest of the class. This should include concept sketches, your inspiration (this can include an older body of your own work) or you can make a paper or digital prototype. Have an idea for a title. Please post a link to your presentation on the [wiki](https://github.com/rebleo/programming4artists/wiki/week-09).
+* Optional / Workshop Assignment: Using sample code - create an interactive sketch that is a mobile-specific artwork. Think of how you can transform a viewer's personal interaction with their device and consider mobile as an creative medium. Think of importing images or text to further your concept. We will have time to work on this in class.  [wiki](https://github.com/rebleo/programming4artists/wiki/week-09)
 * Optional Reading: Alan Turing - [Computing Machinery and Intelligence](http://oldobjectsnewideas.com/_reading/_turingComputing.pdf)
 ___
 
-##### Week 9 -- March 28
-###### Image + Video: Playing w/ Pixels
+##### Week 9 -- April 11
+* Final Project Proposals
 
 ###### Assignment:
 * Optional Reading: Alexander Galloway - Internet Art
 ___
 
-##### Week 10 -- April 11
-* Final Project Proposals
-
-___
-
-##### Week 11 -- April 18
+##### Week 10 -- April 18
 TBD
 ___
 
-##### Week 12 -- April 25
+##### Week 11 -- April 25
 TBD
 * Work on final projects
 ___
 
-##### Week 13 -- May 2
+##### Week 12 -- May 2
 ###### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
 ___
 
-##### Week 14 -- May 9
+##### Week 13 -- May 9
 * Work on final projects
 
-##### Week 15 -- May 16
+##### Week 14 -- May 16
 * Work on final projects
 
-##### Week 16 -- May 23
+##### Week 15 -- May 23
 ###### FINAL CRITIQUE
 
 ---
