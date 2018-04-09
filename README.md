@@ -148,9 +148,11 @@ ___
 
 ##### Week 9 -- April 11
 * Final Project Proposals
+* Workshop
 
 ###### Assignment:
-* Optional Reading: Alexander Galloway - Internet Art
+* Begin your final project by creating a timeline for its creation. This can include production as well as technical research. Think about creating a q&d prototype.
+* Optional Reading: Alexander Galloway - [Internet Art](http://oldobjectsnewideas.com/_reading/protocol7.pdf)
 ___
 
 ##### Week 10 -- April 18
@@ -158,19 +160,19 @@ TBD
 ___
 
 ##### Week 11 -- April 25
-TBD
-* Work on final projects
+* Workshop: Work on final projects
 ___
 
 ##### Week 12 -- May 2
 ###### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
+* Workshop: Work on final projects
 ___
 
 ##### Week 13 -- May 9
-* Work on final projects
+* Workshop: Work on final projects
 
 ##### Week 14 -- May 16
-* Work on final projects
+* Workshop: Work on final projects
 
 ##### Week 15 -- May 23
 ###### FINAL CRITIQUE
