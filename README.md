@@ -164,8 +164,8 @@ ___
 ___
 
 ##### Week 12 -- May 2
-###### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
-* Workshop: Work on final projects
+##### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)‼️
+
 ___
 
 ##### Week 13 -- May 9
