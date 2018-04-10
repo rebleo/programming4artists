@@ -146,7 +146,7 @@ ___
 * Optional Reading: Alan Turing - [Computing Machinery and Intelligence](http://oldobjectsnewideas.com/_reading/_turingComputing.pdf)
 ___
 
-##### Week 9 -- April 11
+##### Week 9 -- April 18
 * Final Project Proposals
 * Workshop
 
@@ -155,26 +155,21 @@ ___
 * Optional Reading: Alexander Galloway - [Internet Art](http://oldobjectsnewideas.com/_reading/protocol7.pdf)
 ___
 
-##### Week 10 -- April 18
-TBD
-___
-
-##### Week 11 -- April 25
+##### Week 10 -- April 25
 * Workshop: Work on final projects
 ___
 
-##### Week 12 -- May 2
+##### Week 11 -- May 2
 ##### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)‼️
-
 ___
 
-##### Week 13 -- May 9
+##### Week 12 -- May 9
 * Workshop: Work on final projects
 
-##### Week 14 -- May 16
+##### Week 13 -- May 16
 * Workshop: Work on final projects
 
-##### Week 15 -- May 23
+##### Week 14 -- May 23
 ###### FINAL CRITIQUE
 
 ---
