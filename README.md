@@ -160,7 +160,7 @@ ___
 ___
 
 ##### Week 11 -- May 2
-##### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)‼️
+##### Visiting Artist: [Allison Parrish](https://www.decontextualize.com/)
 ___
 
 ##### Week 12 -- May 9
