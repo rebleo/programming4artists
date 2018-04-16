@@ -124,6 +124,7 @@ ___
 * p5.js JSON + String Functions
   * [preload()](https://p5js.org/reference/#/p5/preload), [loadJSON()](https://p5js.org/reference/#/p5/loadJSON), [join()](https://p5js.org/reference/#/p5/join), [match()](https://p5js.org/reference/#/p5/match), [splitTokens()](https://p5js.org/reference/#/p5/splitTokens)
 * Review + Workshop
+*[week 7 notes](http://oldobjectsnewideas.com/p4a/week7.pdf)
 
 
 ###### Assignment:
@@ -139,6 +140,7 @@ ___
 * p5.js mobile events - [deviceMoved()](https://p5js.org/reference/#/p5/deviceMoved), [deviceTurned()](https://p5js.org/reference/#/p5/deviceTurned), [deviceShaken()](https://p5js.org/reference/#/p5/deviceShaken)
 * [Hammer.js](http://hammerjs.github.io/) - library for touch interaction
 * Workshop
+* [week 8 notes](http://oldobjectsnewideas.com/p4a/week8.pdf)
 
 ###### Assignment:
 * Next class you will be presenting your final project ideas for discussion with the rest of the class. This should include concept sketches, your inspiration (this can include an older body of your own work) or you can make a paper or digital prototype. Have an idea for a title. Please post a link to your presentation on the [wiki](https://github.com/rebleo/programming4artists/wiki/week-09).
