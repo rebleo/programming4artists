@@ -158,6 +158,7 @@ ___
 ___
 
 ##### Week 10 -- April 25
+* Final Project Proposals
 * Workshop: Work on final projects
 ___
 
