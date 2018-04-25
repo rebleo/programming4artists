@@ -168,10 +168,12 @@ ___
 
 ##### Week 12 -- May 9
 * Workshop: Work on final projects
+___
 
 ##### Week 13 -- May 16
 * Workshop: Work on final projects
 
+___
 ##### Week 14 -- May 23
 ###### FINAL CRITIQUE
 
